@@ -1,5 +1,6 @@
-- To run this program and test if it works--
+## To run this program and test if it works
 
+```
  -- we need to start up the virtual machine first. For this go to the vagrant directory.
  -- once inside, type the command vagrant up.
  -- the VM will start booting. Once this is done, type vagrant ssh.
@@ -10,3 +11,4 @@
  -- the database and then all the tables will be created and the table constraints will be setup.
  -- we need to exit psql by pressing ctrl + D key.
  -- once this is done, we need to run command python tournament_test.py to check if all our unit tests pass.
+ ```
